@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/homeitem"
+        android:background="@color/splashbg"
+        android:icon="@drawable/outline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/upcomingitem"
+        android:background="@color/splashbg"
+        android:icon="@drawable/outline_upcoming_24"
+        android:title="Upcoming" />
+    <item
+        android:id="@+id/finisheditem"
+        android:background="@color/splashbg"
+        android:icon="@drawable/baseline_done_outline_24"
+        android:title="Finished" />
+    <item
+        android:id="@+id/allitem"
+        android:background="@color/splashbg"
+        android:icon="@drawable/outline_groups_2_24"
+        android:title="All"/>
+    <item
+        android:id="@+id/settingitem"
+        android:background="@color/splashbg"
+        android:icon="@drawable/outline_settings_24"
+        android:title="Settings"/>
+
+</menu>

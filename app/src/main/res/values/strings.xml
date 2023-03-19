@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Greeter</string>
+    <string name="noaccount">Don\'t Have An Account ? <font fgcolor="#FFBB86FC">Register</font></string>
+    <string name="haveaccount">Have An Account ? <font fgcolor="#CC1F2E">Sign In</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
